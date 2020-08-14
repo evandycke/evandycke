@@ -1,5 +1,3 @@
-![Welcome](./images/evandycke_repo.png)
-
 <br />
 
 ###  Hi there, I'm Elie Vandycke :wave:
