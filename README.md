@@ -8,13 +8,14 @@
 - :fire: I am currently curious about everything :smiley:
 - :school_satchel: I'm currently doing BI and Data Integration :loop:
 - :books: I initiate to Talend at the University of Lille (Statistics and Business Intelligence) :green_book:
-- :rocket: 2020 Goals: Enrich my Git repositories :soon:
+- :rocket: 2021 Goals: Enrich my Git repositories :soon:
 - :raised_hands: Fun fact: I love family walks with my dog Jack (a Collie) :zap:
 
 ## 📬 Get in touch
 
 - Twitter: [twitter.com/evandycke][1]
 - LinkedIn: [linkedin.com/in/elie-vandycke][2]
+- Elosi: [elosi.com][3]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -28,5 +29,6 @@
 
 [1]: https://www.twitter.com/evandycke
 [2]: https://www.linkedin.com/in/elie-vandycke
+[3]: https://www.elosi.com/
 
 <br />
