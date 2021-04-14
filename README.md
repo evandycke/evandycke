@@ -19,6 +19,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandycke&theme=vue)
+
 <a href="https://github.com/evandycke/evandycke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandycke&layout=compact&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
