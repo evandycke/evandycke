@@ -11,26 +11,12 @@
 - :rocket: 2021 Goals: Enrich my Git repositories :soon:
 - :raised_hands: Fun fact: I love family walks with my dog Jack (a Collie) :zap:
 
-## 📬 Get in touch
-
-- Twitter: [twitter.com/evandycke][1]
-- LinkedIn: [linkedin.com/in/elie-vandycke][2]
-- Elosi: [elosi.com][3]
-
 ## &#x1f4c8; My GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandycke&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandycke&theme=github_dark)
 
-<a href="https://github.com/evandycke/evandycke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandycke&layout=compact&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evandycke&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evandycke&theme=github_dark)
 
-<a href="https://github.com/evandycke/evandycke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evandycke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-[1]: https://www.twitter.com/evandycke
-[2]: https://www.linkedin.com/in/elie-vandycke
-[3]: https://www.elosi.com/
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evandycke&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandycke&theme=github_dark)
 
 <br />
