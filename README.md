@@ -8,7 +8,7 @@
 - :fire: I am currently curious about everything :smiley:
 - :school_satchel: I'm currently doing BI and Data Integration :loop:
 - :books: I initiate to Talend at the University of Lille (Statistics and Business Intelligence) :green_book:
-- :rocket: 2021 Goals: Enrich my Git repositories :soon:
+- :rocket: 2022 Goals: Enrich my Git repositories :soon:
 - :raised_hands: Fun fact: I love family walks with my dog Jack (a Collie) :zap:
 
 ## &#x1f4c8; My GitHub Stats
