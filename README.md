@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently curious about everything<br>💬 Ask me about data<br>⚡ Fun fact I love family walks with my dog Jack (a Collie)
+🔭 I'm currently curious about everything<br>💬 Ask me about data<br>⚡ Fun fact I love family walks with my new dog Pina (an aussie shepherd)
 
 
 ## 🌐 Socials:
